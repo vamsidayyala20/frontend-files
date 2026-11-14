@@ -1,0 +1,11 @@
+*{
+    padding:0%;
+    margin:0%;
+}
+.container{
+    .inp{
+        input{
+            width: 200px;
+        }
+    }
+}

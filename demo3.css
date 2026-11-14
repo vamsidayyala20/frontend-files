@@ -1,0 +1,117 @@
+
+universal{
+   margin :0;
+   padding :0;
+      
+}
+body{
+     
+
+    background-color: black;
+    color: white;
+}
+.container {
+   
+    nav{
+    width: 65%;
+    height: 50px;
+    margin-left: 180px;
+    margin-right: 20px;
+    padding: 30px ;
+    background-color: black;
+    border-radius: 10px;
+    border-color: white;
+    border: 2px solid white;
+    
+    
+ a{
+   margin-top: 30px;
+    
+    margin-left: 120px;
+    border: 2px solid white;
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border-color: white;
+    text-decoration: none;
+    
+ }
+}
+ main{
+
+      width: 65%;
+      
+      border: 10px solid black;
+      margin-top: 10px;
+      margin-left: 180px;
+      h5{
+         margin-top: 10px;
+         font-size: 20px;
+         font-weight: bold;
+         font-family: Georgia, 'Times New Roman', Times, serif;
+         margin-left: 30px;
+      }
+      h1{
+          margin-top: 10px;
+          font-size: 50px;
+         font-weight: bold;
+         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+         text-transform: capitalize;
+         text-decoration: none;
+         margin-left: 10px;
+      }
+       h2{
+          margin-top: 10px;
+          font-size: 30px;
+         font-weight: bold;
+         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+         text-transform: capitalize;
+         text-decoration: none;
+         margin-left: 10px;
+      }
+      p{
+          margin-top: 10px;
+         font-size: 20px;
+         font-family:'Times New Roman', Times, serif;
+         text-decoration: none;
+         margin-left: 10px;
+         text-align: justify;
+         padding: 10px;
+      }
+      span{
+         color: orange;
+      }
+   
+   section{
+      margin-top: 20px;
+      margin-left: 30px;
+      
+      a{
+         margin-right: 50px;
+         font-family: cursive;
+         font-size: 20px;
+         color: violet;
+
+      }
+   }
+   
+   button{
+      margin-top: 10px;
+      background-color:green;
+      font-size: 20px;
+      font: cursive;
+      text-transform: capitalize;
+      color:white;
+      margin-left: 30px;
+      padding: 10px;
+      border: 2px solid white;
+      border-radius: 20px;
+   }
+}
+
+   }
+
+    
+

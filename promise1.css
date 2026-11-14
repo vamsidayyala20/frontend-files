@@ -1,0 +1,31 @@
+.container{
+    .cards{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            align-items: center;
+        .card{
+            width: 250px;
+            height: 230px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            border: 1px solid black;
+            border-radius: 10px;
+            background-color: black;
+            color: white;
+           align-items: center;
+            justify-content: center;
+            padding: 10px;
+        }
+        h1{
+            font-size: 20px;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        h6{
+            font-size: 20px;
+            font-family: 'Courier New', Courier, monospace;
+        }
+    }
+}

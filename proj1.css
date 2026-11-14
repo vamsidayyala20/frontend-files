@@ -1,0 +1,97 @@
+.container{
+    .navbar{
+        margin-top: 20px;
+        border: 0px solid white;
+         box-shadow: 0px 0px 10px black;
+        width: 100%;
+        padding: 10px;
+      
+        
+        a{
+           
+            margin-right: 30px;
+            font-size: 20px;
+            text-decoration: none;
+        }
+        #home{
+            margin-left: 450px;
+        }
+        i{
+           margin-right: 10px;
+        }
+        #insta{
+            margin-left: 300px;
+        }
+    }
+    footer{
+        border-top: 10px solid gray;
+    
+    .title{
+        margin-left: 450px;
+       
+        i {
+             display: inline-block;
+             font-size: 50px;
+             color: black;
+              gap: 10px;   
+             }
+           
+        h1{
+             display: inline-block;
+            font-size: 50px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            text-transform: capitalize;
+            color: darkslateblue;
+            
+        }
+
+    }
+    }
+    .subnav{
+        margin-left: 200px;
+        a{
+            margin-right: 30px;
+            text-transform: capitalize;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 20px;
+            text-decoration: none;
+        }
+    }
+    .carts{
+        display: flex;
+        margin-top: 30px;
+        margin-left: 100px;
+        .cart{
+             border: 2px solid gray;
+             width:350px;
+             img{
+                width: 350px;
+                height: 260px;
+             }
+             h1{
+                padding: 5px 3px;
+                font-size: 22px;
+                font-family: 'Times New Roman', Times, serif
+                font-weight: 10px;
+                text-align: justify;
+                color:darkslateblue;
+
+             }
+             p{
+                padding: 5px 2px;
+                font-size:18px;
+                font-family: 'Times New Roman', Times, serif;
+                text-align: justify;
+                color: gray;
+                margin-top: 1px;
+             }
+             a{
+                font-size: 20px;
+                color: cornflowerblue;
+             }
+            
+        }
+
+    }
+    
+}

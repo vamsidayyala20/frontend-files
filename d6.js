@@ -1,0 +1,5 @@
+let fn=document.getElementsByTagName("input")[0]
+let ln=document.getElementsByTagName("input")[1]
+let c=document.getElementsByTagName("input")[0]
+let e=document.getElementsByTagName("input")[0]
+let btn=document.getElementsByTagName("input")[0]

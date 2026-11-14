@@ -1,0 +1,24 @@
+.container{
+    .cards{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        /* height: 100vh; */
+        .card{
+            width: 300px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            border: 1px solid black;
+            border-radius:10px;
+            padding: 10px;
+            align-items: center;
+            justify-content: center;
+            background-color: black;
+            color: white;
+            height: 200px;
+        }
+    }
+}

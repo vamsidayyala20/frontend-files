@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: bisque;
+    
+    p{
+        border: 1px solid black;
+        border-radius: 10px;
+        text-align: justify;
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        width: 75%;
+        padding: 10px;
+        
+    }
+}

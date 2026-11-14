@@ -1,0 +1,96 @@
+#sl{
+    color: blue;
+}
+#items{
+    color: red;
+}
+#image{
+    color: green;
+}
+#description{
+    color: aqua;
+}
+#list{
+    color: orange;
+}
+#price{
+    color: orangered;
+}
+#link{
+    color: blueviolet;
+}
+#img1{
+    width:450px;
+    height:250px;
+}
+#para1{
+    color: red;
+}
+#img2{
+    width:450px;
+    height:250px;
+}
+#para2{
+    color: rgb(136, 30, 30);
+}
+#img3{
+    width:450px;
+    height:250px;
+
+}
+#para3{
+    color:rgb(152, 38, 112);
+}
+#img4{
+    width:450px;
+    height:250px;
+}
+#para4{
+    color: aqua;
+}
+#img5{
+    width:450px;
+    height:250px;
+}
+#para5{
+    color: rgb(19, 138, 70);
+}
+#img6{
+    width:450px;
+    height:250px;
+}
+#para6{
+    color:brown;
+}
+#img7{
+    width:450px;
+    height:250px;
+}
+#para7{
+    color: bisque;
+}
+#img7{
+    width:450px;
+    height:250px;
+}
+#para8{
+    color: brown;
+}
+#img9{
+    width:450px;
+    height:250px;
+}
+#para9{
+    color:chocolate;
+}
+#img10{
+    width:450px;
+    height:250px;
+}
+#para10{
+    color: darkblue;
+}
+#bt{
+    color:blue;
+    background-color: orange;
+}

@@ -1,0 +1,32 @@
+.container{
+    .navbar{
+        display: flex;
+        height: 80px;
+        border-bottom: 1px solid black;
+        align-items: center;
+        justify-content: space-evenly;
+        background-color: black;
+    a{
+         font-size: 20px;
+         text-transform: uppercase;
+         text-decoration: none;
+         color: white;
+         background-color: orange;
+         width: 150px;
+         text-align: center;
+         padding: 5px 0px;
+         border-radius: 10px;
+    }
+    }
+    .text{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh ;
+        h1{
+            font-size: 20px;
+            font-family: 'Courier New', Courier, monospace;
+            text-transform: capitalize;
+        }
+    }
+}
